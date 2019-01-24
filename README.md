@@ -1,4 +1,4 @@
-#Education Portal
+#EDUCATION-PORTAL
 <h3> Details of the Portal :</h3>    
   <ul>
 	<li>The 'Brain Opener's E Learning Portal' has a dual level structure -  Teacher level and Student level</li>
@@ -15,7 +15,7 @@
 </ul>
                <h5>                                      ..................  Something more  ...................</h5>
 
-       We have created 3 teachers's accounts and 3 student's accounts, in advance-<br>
+       We have created 3 teachers's accounts and 3 student's accounts, in advance-
                           (You can create as many accounts as you can)
 <br>
 1.Teacher's accounts with passwords:-<br>
