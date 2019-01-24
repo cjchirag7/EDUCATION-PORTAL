@@ -1,4 +1,4 @@
-#EDUCATION-PORTAL
+<h2>#EDUCATION-PORTAL</h2>
 <h3> Details of the Portal :</h3>    
   <ul>
 	<li>The 'Brain Opener's E Learning Portal' has a dual level structure -  Teacher level and Student level</li>
